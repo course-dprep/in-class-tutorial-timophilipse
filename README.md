@@ -18,7 +18,7 @@ Second, summarize your results concisely. Make use of subheaders where appropria
 ## Repository overview
 
 Provide an overview of the directory structure and files, for example:
-""
+```
 ├── README.md
 ├── data
 ├── gen
@@ -29,7 +29,7 @@ Provide an overview of the directory structure and files, for example:
     ├── analysis
     ├── data-preparation
     └── paper
-"
+```
 
 ## Running instructions
 
